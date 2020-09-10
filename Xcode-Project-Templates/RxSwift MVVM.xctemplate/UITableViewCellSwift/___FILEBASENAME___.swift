@@ -5,7 +5,7 @@ class ___FILEBASENAMEASIDENTIFIER___: ___VARIABLE_cocoaTouchSubclass___ {
     // MARK: - Properties
     
     
-    // MARK: - Lifecycle
+    // MARK: - UI
     
     
     // MARK: - Public Methods
